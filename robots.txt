@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://xn--91tab-h02iv96g.com/sitemap.xml
